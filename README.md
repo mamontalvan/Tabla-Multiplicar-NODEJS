@@ -4,6 +4,11 @@
 
     npm install
 
+
+2. Ejecutamos la aplicación. 
+
+    node app -b 6 -l -h 20
+
     Parámetros que se debe enviar por consola para ejecutar nuestra aplicación:
 
     ```
@@ -14,10 +19,7 @@
       -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
       -h, --hasta    Hasta dónde llega la tabla de multiplicar              [number]
     ```
-2. Ejecutamos la aplicación. 
-
-    node app -b 6 -l -h 20
-
+    
 3. Revisamos la tabla generada en el directorio "output":
 
     cd output/tabla-6.txt
