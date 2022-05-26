@@ -1,5 +1,5 @@
 # Notas:
-Estos son los parámetros que reciben por consola:
+Estos son los parámetros que se recibe por consola:
 
 ```
 Options:
